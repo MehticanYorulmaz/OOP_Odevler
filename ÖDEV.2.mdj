@@ -1,0 +1,360 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFrlNgLWHFsYXA=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model1",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFrlNgLWHFt4Ck=",
+					"_parent": {
+						"$ref": "AAAAAAFrlNgLWHFsYXA="
+					},
+					"name": "ClassDiagram1",
+					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAFrlNl8YXFxa9I=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 200,
+							"width": 417,
+							"height": 585
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAFrlNsSOXGNVr0=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 248,
+							"top": 87,
+							"width": 128,
+							"height": 57
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlNnV8XF9fXg=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 32,
+							"width": 105,
+							"height": 38,
+							"text": "WEB SAYFASI"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlNsx1HGSFrc=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 280,
+							"top": 96,
+							"width": 74.3017578125,
+							"height": 51,
+							"text": "Makale Başlıklarını Görme"
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAFrlN2K9HHiL/U=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 240,
+							"top": 184,
+							"width": 129,
+							"height": 56
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlN32FHHm2j8=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 272,
+							"top": 184,
+							"width": 60.578125,
+							"height": 51,
+							"text": "Siteyi Tavasiye Et"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOAgJHJHlb8=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlN2K9HHiL/U="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlNsx1HGSFrc="
+							},
+							"lineStyle": 1,
+							"points": "313:147;308:183"
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAFrlOCo73JLDBI=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"showShadow": false,
+							"left": 464,
+							"top": 104,
+							"width": 72,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlOEIvnJOFCc=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 464,
+							"top": 120,
+							"width": 60,
+							"height": 25,
+							"text": "ÜYE OL"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOKbGXJl1DA=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlNsSOXGNVr0="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlOEIvnJOFCc="
+							},
+							"lineStyle": 1,
+							"points": "463:129;376:121"
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAFrlOLf0HJou88=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 232,
+							"top": 272,
+							"width": 120,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlOLrtXJs06o=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 264,
+							"top": 280,
+							"width": 60,
+							"height": 38,
+							"text": "Kitapları İncele"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOZqU3LbPSQ=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlOLf0HJou88="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlN32FHHm2j8="
+							},
+							"lineStyle": 1,
+							"points": "298:235;294:271"
+						},
+						{
+							"_type": "RoundRectView",
+							"_id": "AAAAAAFrlOaQcXLgbb0=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 456,
+							"top": 256,
+							"width": 96,
+							"height": 50
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlOa0GnLo9I0=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 480,
+							"top": 264,
+							"width": 60,
+							"height": 38,
+							"text": "ÜYE GİRİŞİ"
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAFrlOcikXLto80=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 512,
+							"top": 352,
+							"width": 81,
+							"height": 66
+						},
+						{
+							"_type": "EllipseView",
+							"_id": "AAAAAAFrlOdIcXLyCc0=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 424,
+							"top": 352,
+							"width": 64,
+							"height": 66
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlOeEnnL7xyM=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 424,
+							"top": 368,
+							"width": 60,
+							"height": 38,
+							"text": "Makale okumak"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFrlOe0o3MBlsY=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 520,
+							"top": 360,
+							"width": 68.5126953125,
+							"height": 51,
+							"text": "Kaynak Kod İndirilmesi"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOiOpXMX/es=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlOeEnnL7xyM="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlOa0GnLo9I0="
+							},
+							"lineStyle": 1,
+							"points": "498:302;463:367"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOjZ2XMhjU4=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlOe0o3MBlsY="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlOa0GnLo9I0="
+							},
+							"lineStyle": 1,
+							"points": "518:302;542:359"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOnEp3Mk5hI=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlOdIcXLyCc0="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlOEIvnJOFCc="
+							},
+							"lineStyle": 1,
+							"points": "484:145;416:240;446:351"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFrlOn5yXMorFk=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAFrlOe0o3MBlsY="
+							},
+							"tail": {
+								"$ref": "AAAAAAFrlOCo73JLDBI="
+							},
+							"lineStyle": 1,
+							"points": "524:154;608:240;563:359"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFrlOsVPnMxQFI=",
+							"_parent": {
+								"$ref": "AAAAAAFrlNgLWHFt4Ck="
+							},
+							"font": "Arial;13;0",
+							"left": 16,
+							"top": 56,
+							"width": 160.130859375,
+							"height": 103,
+							"text": "HR180014 ELİMDEN GELENİ YAPTIM HOCAM iNŞALLAH DEĞERLENDİRİRSİNİZ"
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAFrlN0UMnGbRqo=",
+					"_parent": {
+						"$ref": "AAAAAAFrlNgLWHFsYXA="
+					},
+					"name": "Class1"
+				}
+			]
+		}
+	]
+}
